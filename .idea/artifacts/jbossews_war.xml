@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jbossews:war">
+    <output-path>$PROJECT_DIR$/classes/artifacts/jbossews_war</output-path>
+    <root id="archive" name="jbossews_war.war">
+      <element id="artifact" artifact-name="jbossews:war exploded" />
+    </root>
+  </artifact>
+</component>
